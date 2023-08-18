@@ -1,0 +1,6 @@
+{{#user}
+Name: Mohima Hoque Mim
+Skills: HTML, CSS, C(intermediate), Python(basic), Javascript(intermediate),
+c++(basic), Java(intermediate), React(Beginner), Node JS, Linux (CLI).
+Email: mohimahoque22@gmail.com
+{{/user}}
